@@ -1,0 +1,261 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\adamy\\source\\repos\\Cater4Us-Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C024F22-FA0B-4310-96A6-CC81BB1DC0C2}|Cater4Us-Backend.csproj|c:\\users\\adamy\\source\\repos\\cater4us-backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C024F22-FA0B-4310-96A6-CC81BB1DC0C2}|Cater4Us-Backend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C024F22-FA0B-4310-96A6-CC81BB1DC0C2}|Cater4Us-Backend.csproj|c:\\users\\adamy\\source\\repos\\cater4us-backend\\controllers\\foodscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C024F22-FA0B-4310-96A6-CC81BB1DC0C2}|Cater4Us-Backend.csproj|solutionrelative:controllers\\foodscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C024F22-FA0B-4310-96A6-CC81BB1DC0C2}|Cater4Us-Backend.csproj|c:\\users\\adamy\\source\\repos\\cater4us-backend\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C024F22-FA0B-4310-96A6-CC81BB1DC0C2}|Cater4Us-Backend.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C024F22-FA0B-4310-96A6-CC81BB1DC0C2}|Cater4Us-Backend.csproj|c:\\users\\adamy\\source\\repos\\cater4us-backend\\services\\adminorcustomtokenhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C024F22-FA0B-4310-96A6-CC81BB1DC0C2}|Cater4Us-Backend.csproj|solutionrelative:services\\adminorcustomtokenhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C024F22-FA0B-4310-96A6-CC81BB1DC0C2}|Cater4Us-Backend.csproj|c:\\users\\adamy\\source\\repos\\cater4us-backend\\services\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C024F22-FA0B-4310-96A6-CC81BB1DC0C2}|Cater4Us-Backend.csproj|solutionrelative:services\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C024F22-FA0B-4310-96A6-CC81BB1DC0C2}|Cater4Us-Backend.csproj|c:\\users\\adamy\\source\\repos\\cater4us-backend\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C024F22-FA0B-4310-96A6-CC81BB1DC0C2}|Cater4Us-Backend.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C024F22-FA0B-4310-96A6-CC81BB1DC0C2}|Cater4Us-Backend.csproj|c:\\users\\adamy\\source\\repos\\cater4us-backend\\models\\entities\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C024F22-FA0B-4310-96A6-CC81BB1DC0C2}|Cater4Us-Backend.csproj|solutionrelative:models\\entities\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C024F22-FA0B-4310-96A6-CC81BB1DC0C2}|Cater4Us-Backend.csproj|c:\\users\\adamy\\source\\repos\\cater4us-backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0C024F22-FA0B-4310-96A6-CC81BB1DC0C2}|Cater4Us-Backend.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C024F22-FA0B-4310-96A6-CC81BB1DC0C2}|Cater4Us-Backend.csproj|c:\\users\\adamy\\source\\repos\\cater4us-backend\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C024F22-FA0B-4310-96A6-CC81BB1DC0C2}|Cater4Us-Backend.csproj|solutionrelative:models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\adamy\\source\\repos\\Cater4Us-Backend\\Migrations\\20240813180024_InitialCreateWithSocks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240813180024_InitialCreateWithSocks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C024F22-FA0B-4310-96A6-CC81BB1DC0C2}|Cater4Us-Backend.csproj|c:\\users\\adamy\\source\\repos\\cater4us-backend\\models\\entities\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C024F22-FA0B-4310-96A6-CC81BB1DC0C2}|Cater4Us-Backend.csproj|solutionrelative:models\\entities\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C024F22-FA0B-4310-96A6-CC81BB1DC0C2}|Cater4Us-Backend.csproj|c:\\users\\adamy\\source\\repos\\cater4us-backend\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C024F22-FA0B-4310-96A6-CC81BB1DC0C2}|Cater4Us-Backend.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\adamy\\source\\repos\\Cater4Us-Backend\\Migrations\\20240813155506_InitialCreateWithSocks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240813155506_InitialCreateWithSocks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\adamy\\source\\repos\\Cater4Us-Backend\\Migrations\\20240813154740_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240813154740_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\adamy\\source\\repos\\Cater4Us-Backend\\Migrations\\20240813154205_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240813154205_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminOrCustomTokenHandler.cs",
+              "DocumentMoniker": "C:\\Users\\adamy\\source\\repos\\Cater4Us-Backend\\Services\\AdminOrCustomTokenHandler.cs",
+              "RelativeDocumentMoniker": "Services\\AdminOrCustomTokenHandler.cs",
+              "ToolTip": "C:\\Users\\adamy\\source\\repos\\Cater4Us-Backend\\Services\\AdminOrCustomTokenHandler.cs",
+              "RelativeToolTip": "Services\\AdminOrCustomTokenHandler.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwAgAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T11:43:06.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\adamy\\source\\repos\\Cater4Us-Backend\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\adamy\\source\\repos\\Cater4Us-Backend\\Models\\LoginModel.cs",
+              "RelativeToolTip": "Models\\LoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T18:27:26.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JwtTokenService.cs",
+              "DocumentMoniker": "C:\\Users\\adamy\\source\\repos\\Cater4Us-Backend\\Services\\JwtTokenService.cs",
+              "RelativeDocumentMoniker": "Services\\JwtTokenService.cs",
+              "ToolTip": "C:\\Users\\adamy\\source\\repos\\Cater4Us-Backend\\Services\\JwtTokenService.cs",
+              "RelativeToolTip": "Services\\JwtTokenService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwB4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T18:24:25.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\adamy\\source\\repos\\Cater4Us-Backend\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\adamy\\source\\repos\\Cater4Us-Backend\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAswDIAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T18:19:05.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FoodsController.cs",
+              "DocumentMoniker": "C:\\Users\\adamy\\source\\repos\\Cater4Us-Backend\\Controllers\\FoodsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FoodsController.cs",
+              "ToolTip": "C:\\Users\\adamy\\source\\repos\\Cater4Us-Backend\\Controllers\\FoodsController.cs",
+              "RelativeToolTip": "Controllers\\FoodsController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAYwEEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T18:02:08.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240813180024_InitialCreateWithSocks.cs",
+              "DocumentMoniker": "C:\\Users\\adamy\\source\\repos\\Cater4Us-Backend\\Migrations\\20240813180024_InitialCreateWithSocks.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240813180024_InitialCreateWithSocks.cs",
+              "ToolTip": "C:\\Users\\adamy\\source\\repos\\Cater4Us-Backend\\Migrations\\20240813180024_InitialCreateWithSocks.cs",
+              "RelativeToolTip": "Migrations\\20240813180024_InitialCreateWithSocks.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T18:00:25.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\adamy\\source\\repos\\Cater4Us-Backend\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\adamy\\source\\repos\\Cater4Us-Backend\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T17:28:20.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\adamy\\source\\repos\\Cater4Us-Backend\\Models\\Entities\\Users.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\Users.cs",
+              "ToolTip": "C:\\Users\\adamy\\source\\repos\\Cater4Us-Backend\\Models\\Entities\\Users.cs",
+              "RelativeToolTip": "Models\\Entities\\Users.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T16:03:15.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20240813155506_InitialCreateWithSocks.cs",
+              "DocumentMoniker": "C:\\Users\\adamy\\source\\repos\\Cater4Us-Backend\\Migrations\\20240813155506_InitialCreateWithSocks.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240813155506_InitialCreateWithSocks.cs",
+              "ToolTip": "C:\\Users\\adamy\\source\\repos\\Cater4Us-Backend\\Migrations\\20240813155506_InitialCreateWithSocks.cs",
+              "RelativeToolTip": "Migrations\\20240813155506_InitialCreateWithSocks.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T15:55:06.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20240813154740_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\adamy\\source\\repos\\Cater4Us-Backend\\Migrations\\20240813154740_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240813154740_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\adamy\\source\\repos\\Cater4Us-Backend\\Migrations\\20240813154740_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20240813154740_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T15:47:40.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20240813154205_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\adamy\\source\\repos\\Cater4Us-Backend\\Migrations\\20240813154205_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240813154205_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\adamy\\source\\repos\\Cater4Us-Backend\\Migrations\\20240813154205_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20240813154205_InitialCreate.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T15:42:05.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Food.cs",
+              "DocumentMoniker": "C:\\Users\\adamy\\source\\repos\\Cater4Us-Backend\\Models\\Entities\\Food.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\Food.cs",
+              "ToolTip": "C:\\Users\\adamy\\source\\repos\\Cater4Us-Backend\\Models\\Entities\\Food.cs",
+              "RelativeToolTip": "Models\\Entities\\Food.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T15:28:36.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\adamy\\source\\repos\\Cater4Us-Backend\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\adamy\\source\\repos\\Cater4Us-Backend\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T15:26:49.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\adamy\\source\\repos\\Cater4Us-Backend\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\adamy\\source\\repos\\Cater4Us-Backend\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T15:26:16.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\adamy\\source\\repos\\Cater4Us-Backend\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\adamy\\source\\repos\\Cater4Us-Backend\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-13T15:25:06.96Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

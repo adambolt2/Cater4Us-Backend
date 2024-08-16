@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Cater4Us-Backend.props" />
+</Project>
